@@ -1,7 +1,3 @@
-File Structure
-
-  ```bash
-Copy code
 fluffernut/
 │
 ├── src/
@@ -27,5 +23,3 @@ fluffernut/
 ├── .gitignore
 ├── README.md                 # Documentation for the framework
 └── package.json              # Node.js project configuration
- ```
-
